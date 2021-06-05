@@ -1,6 +1,6 @@
 # NN-Notebooks
 
-My study of the most common methods and structure of neural networks using pytorch.
+My study of common methods and structures of neural networks using pytorch.
 
 Topics Covered:
 - Linear Regression
