@@ -1,6 +1,6 @@
 # NN-Notebooks
 
-My study of common methods and structures of neural networks using pytorch.
+My study of common methods and structures of neural networks using pytorch, also vectorization implementation.
 
 Topics Covered:
 
