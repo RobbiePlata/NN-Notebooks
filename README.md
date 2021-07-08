@@ -10,5 +10,6 @@ Pytorch
 
 Vectorized
 - [Logistic Regression](https://nbviewer.jupyter.org/github/RobbiePlata/NN-Notebooks/blob/master/Vectorized/Logistic%20Regression/Logistic%20Regression.ipynb)
+- [Deep Neural Network](https://nbviewer.jupyter.org/github/RobbiePlata/NN-Notebooks/blob/master/Vectorized/Deep%20Neural%20Network/Neural%20Network%20with%20L-layers.ipynb)
 
 Last Updated 7/5/2021
